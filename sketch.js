@@ -37,6 +37,7 @@ function setup() {
 }
 
 function draw() {
+  mousePressed();
 }
 
 function mousePressed() {
